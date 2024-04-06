@@ -1,0 +1,43 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @Whiskeysockets/baileys qrcode-terminal
+
+PATH: 
+  D:\Documents\Programs\ImageMagick-7.1.1-Q16-HDRI;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\arrafi\Downloads\ffmpeg-6.1.1\ffmpeg-6.1.1;C:\Program Files (x86)\Yarn\bin\;D:\Git\cmd;C:\Program Files\nodejs\;C:\Users\arrafi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\arrafi\AppData\Local\Programs\Python\Python312\;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\arrafi\AppData\Local\Microsoft\WindowsApps;C:\Users\arrafi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Python39;C:\Users\arrafi\Downloads\Compressed\php-8.3.2-src\php-8.3.2-src;C:\Users\arrafi\Downloads\Compressed\php-8.3.2-nts-Win32-vs16-x64;C:\Users\arrafi\Downloads\Compressed\tesseract-ocr-3.02.grc\tesseract-ocr\tessdata;C:\Users\arrafi\OneDrive\Desktop\Wa-OpenAI-main\ffmpeg-2024-03-11-git-3d1860ec8d-essentials_build\bin;C:\Users\arrafi\AppData\Local\Yarn\bin;D:\heroku\bin;C:\Users\arrafi\AppData\Roaming\npm;C:\Users\arrafi\Downloads\Compressed\ffmpeg-2024-04-04-git-478d97f303-full_build\ffmpeg-2024-04-04-git-478d97f303-full_build\bin;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  21.7.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.npmjs.org/@Whiskeysockets%2fbaileys: Not found
+      at params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:519:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:519:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:633:28)
+      at IncomingMessage.emit (node:events:531:35)
+      at endReadableNT (node:internal/streams/readable:1696:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+    "name": "bot1",
+    "version": "1.0.0",
+    "description": "masih di buat",
+    "main": "bot.js",
+    "author": "M.fajri",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
